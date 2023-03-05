@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1678024289 source:c:\users\Álvaro\documents\estrutura de dados\resolucao\main.cpp
+	<iostream>
+	<string>
+	<fstream>
+
